@@ -15,7 +15,7 @@ SELECT sum(data_length)/(sum(data_length)+sum(index_length))*100 as table_percen
   FROM INFORMATION_SCHEMA.TABLES
 ```
 
-![Задание 1](https://github.com/edjanserikov/redis/blob/main/img/index_persent.PNG)
+![Задание 1](https://github.com/edjanserikov/redis/blob/main/img/index_percent.PNG)
 
 ---
 
