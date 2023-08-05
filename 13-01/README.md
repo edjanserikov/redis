@@ -90,10 +90,14 @@ UDP сканирование: При UDP сканировании nmap отпр�
 
 `Принтскрины Wireshark (сканирование c использованием nmap):`
 
+`SYN сканирование`
 ![SYN-сканирование](https://github.com/edjanserikov/redis/blob/main/img/SYN_scan.PNG)
 
+`FIN сканирование`
 ![FIN-сканирование](https://github.com/edjanserikov/redis/blob/main/img/FIN_scan.PNG)
 
+`Xmas сканирование`
 ![Xmas-сканирование](https://github.com/edjanserikov/redis/blob/main/img/Xmas_scan.PNG)
 
+`UDP сканирование`
 ![UDP-сканирование](https://github.com/edjanserikov/redis/blob/main/img/UDP_scan.PNG)
